@@ -1,0 +1,4 @@
+boot/kernel.bin
+dist/**
+build/**
+targets/**
