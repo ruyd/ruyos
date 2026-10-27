@@ -2,3 +2,5 @@ boot/kernel.bin
 dist/**
 build/**
 targets/**
+
+.vscode/*.log
